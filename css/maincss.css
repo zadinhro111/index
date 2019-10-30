@@ -286,8 +286,7 @@ body{
 	
 }
 .content2f1 img{
-	animation: moro 8s forwards  ;
-	opacity: 0;
+	opacity: 1;
 }
 @keyframes moro{
 	0% { opacity: 0;}
